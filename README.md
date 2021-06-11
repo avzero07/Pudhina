@@ -1,3 +1,5 @@
+# I am not a front-end developer by any means. I liked the minimalist design and decided to use this for my personal site. I forked the theme from https://github.com/knhash/Pudhina
+
 # Pudhina
 A simple, minimal [Jekyll](jekyllrb.com) theme for a personal web page and blog, focusing on white space and readability
 
